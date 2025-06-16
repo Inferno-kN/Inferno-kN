@@ -29,17 +29,20 @@
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 
-<br/>
+<h2> GitHub Stats 👇</h2> 
+<a href="https://github.com/Inferno-kN/github-readme-stats"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inferno-kN&layout=compact&theme=Inferno-kN" /></a>
+<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Inferno-kN&theme=Inferno-kN" alt="Inferno-kN" />
 
-<h2> GitHub Stats 👇</h2>
 <br/>
 
 <h2> LeetCode 👇</h2> 
 
 <p align="center">
+    <img src=https://leetcard.jacoblin.cool/Inferno-kN>
 </p>
+    
 
-<br/>
+<br/>![img.png](img.png)
 <br/>
  
 <p align="center">
