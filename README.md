@@ -42,7 +42,7 @@
 </p>
     
 
-<br/>![img.png](img.png)
+<br/>
 <br/>
  
 <p align="center">
