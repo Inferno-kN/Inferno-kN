@@ -50,7 +50,7 @@
 <p align="center">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Inferno-kN&layout=pie&langs_count=8&theme=dark&hide_border=true" alt="Top Languages" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Inferno-kN&theme=dark" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Inferno-kN&show_icons=true&theme=dark" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Inferno-kN&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 
