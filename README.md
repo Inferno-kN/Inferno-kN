@@ -48,9 +48,11 @@
 
 <h2>📊 GitHub Stats</h2>
 <p align="center">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Inferno-kN&layout=pie&langs_count=8&theme=dark&hide_border=true" alt="Top Languages" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Inferno-kN&theme=dark" alt="GitHub Streak" />
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Inferno-kN&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Inferno-kN&layout=pie&langs_count=8&theme=dark&hide_border=true" width="40%" />
+    <img src="https://streak-stats.demolab.com?user=Inferno-kN&theme=dark&hide_border=true" width="48%" />
+</p>
+<p align="center">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Inferno-kN&cc=000&tc=fff&ic=fff&bc=000" alt="GitHub Stats" />
 </p>
 
 
