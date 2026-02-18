@@ -48,15 +48,9 @@
 
 <h2>📊 GitHub Stats</h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inferno-kN&layout=compact&theme=dark" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inferno-kN&layout=pie&langs_count=8&theme=dark&hide_border=true" alt="Top Languages" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Inferno-kN&theme=dark" alt="GitHub Streak" />
     <img src="https://github-readme-stats.vercel.app/api?username=Inferno-kN&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-
-<h2>💻 Languages Distribution<h2>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inferno-kN&layout=pie&langs_count=6&theme=dark&hide_border=true" alt="Languages Distribution" />
 </p>
 
 
