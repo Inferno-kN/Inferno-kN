@@ -54,6 +54,12 @@
 </p>
 
 
+<h2>💻 Languages Distribution<h2>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inferno-kN&layout=pie&langs_count=6&theme=dark&hide_border=true" alt="Languages Distribution" />
+</p>
+
+
 #### LeetCode
 
 <h2>⚡ LeetCode Stats</h2>
